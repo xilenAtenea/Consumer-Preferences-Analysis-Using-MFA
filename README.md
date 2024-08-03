@@ -6,7 +6,7 @@ This repository contains materials for our first workshop in the Data Analytics 
 
 #### Files in this Repository
 - **Script_AFM_Activity1.R** : This R script contains the code used to perform the MFA analysis.
-- **Activity_1.pdf**: This PDF document includes the detailed analysis and case study results.
+- **analysis_file.pdf**: This PDF document includes the detailed analysis and case study results.
 
 ### Study Context
 In this case study, a consumer goods company aims to better understand the preferences and perceptions of its customers regarding its products. To achieve this, data was collected on product characteristics, consumer preferences, and demographic and qualitative information about the consumers. The objective of the analysis is to identify patterns and segment consumers effectively.
