@@ -366,7 +366,7 @@ p6 <- ggplot(df_cluster, aes(x = clust, y = income, fill = clust)) +
 
 (p1 | p2) / (p3 | p4) / (p5 | p6)
 
-# Check differences in product quality by cluster
+# Check differences in variables by cluster
 t.test(product_quality ~ clust, data = df_cluster)
 t.test(preference_taste ~ clust, data = df_cluster)
 t.test(preference_price ~ clust, data = df_cluster)
